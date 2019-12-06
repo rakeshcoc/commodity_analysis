@@ -1,0 +1,10 @@
+{
+"state":"Andhra Pradesh",
+"commodity":"Tomato",
+"variety":"Local"
+}
+{
+"state":"Uttar Pradesh",
+"commodity":"Wheat",
+"variety":"Dara"
+}

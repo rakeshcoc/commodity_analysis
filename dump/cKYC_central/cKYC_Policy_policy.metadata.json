@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"cKYC_central.cKYC_Policy_policy"},{"v":2,"unique":true,"key":{"id":1},"name":"__primary_key__","ns":"cKYC_central.cKYC_Policy_policy"},{"v":2,"key":{"policyfield_id":1},"name":"cKYC_Policy_policy_policyfield_id_87120b29","ns":"cKYC_central.cKYC_Policy_policy"}],"uuid":"2d616e086a8343e58a541510888dd451"}

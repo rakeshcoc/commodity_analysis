@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"node.cars1"},{"v":2,"unique":true,"key":{"model":1.0},"name":"model_1","ns":"node.cars1"}],"uuid":"f990b7297a8847ffa3a13c62f6cc2306"}

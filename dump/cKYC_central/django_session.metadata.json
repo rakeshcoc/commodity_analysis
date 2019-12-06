@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"cKYC_central.django_session"},{"v":2,"unique":true,"key":{"session_key":1},"name":"__primary_key__","ns":"cKYC_central.django_session"},{"v":2,"key":{"expire_date":1},"name":"django_session_expire_date_a5c62663","ns":"cKYC_central.django_session"}],"uuid":"4fd8163de8bc43d897ba4ca12e975b6d"}
