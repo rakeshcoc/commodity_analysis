@@ -8,7 +8,7 @@ import math
 from django.shortcuts import get_object_or_404
 from rest_framework.views import APIView
 # Create your views here.
-key = "AIzaSyBnd0mAaz1-lihGN_psunPAcXmtJE6zzMw"
+key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"  #APIKEY
 def index(request):
     if request.method == 'GET':
         return HttpResponse("Hello")
