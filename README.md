@@ -1,0 +1,1 @@
+This project is developed to make analysis of price difference for commodities in Indian market.
